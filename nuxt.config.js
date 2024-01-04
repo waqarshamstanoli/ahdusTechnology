@@ -3,8 +3,8 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - ahdus-technology',
-    title: 'ahdus-technology',
+    titleTemplate: '%s - bimmer-tech',
+    title: 'bimmer-tech',
     htmlAttrs: {
       lang: 'en'
     },
